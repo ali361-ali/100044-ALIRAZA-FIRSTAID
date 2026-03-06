@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Pro First Aid</string>
+    <string name="search_hint">Search emergencies...</string>
+    <string name="emergency_call">Emergency Call</string>
+
+    <!-- Categories -->
+    <string name="cat_life_threatening">Life Threatening</string>
+    <string name="cat_injuries">Injuries</string>
+
+    <!-- CPR -->
+    <string name="title_cpr">CPR</string>
+    <string name="desc_cpr">For adults who are unresponsive.</string>
+    <string name="step_cpr_1">Check the scene for safety and the person for responsiveness.</string>
+    <string name="step_cpr_2">Call 911 (or local emergency number) immediately.</string>
+    <string name="step_cpr_3">Place the person on their back on a firm, flat surface.</string>
+    <string name="step_cpr_4">Give 30 chest compressions (2 inches deep, 100-120 bpm).</string>
+    <string name="step_cpr_5">Give 2 rescue breaths (tilt head, lift chin, pinch nose).</string>
+    <string name="step_cpr_6">Repeat cycles of 30 compressions and 2 breaths.</string>
+
+    <!-- Choking -->
+    <string name="title_choking">Choking</string>
+    <string name="desc_choking">Helping someone who cannot breathe.</string>
+    <string name="step_choking_1">Stand behind the person and wrap your arms around the waist.</string>
+    <string name="step_choking_2">Make a fist and place the thumb side just above the navel.</string>
+    <string name="step_choking_3">Grasp your fist with your other hand.</string>
+    <string name="step_choking_4">Perform quick, upward and inward thrusts (Heimlich maneuver).</string>
+
+    <!-- Bleeding -->
+    <string name="title_bleeding">Severe Bleeding</string>
+    <string name="desc_bleeding">How to stop life-threatening blood loss.</string>
+    <string name="step_bleeding_1">Apply direct pressure with a clean cloth or gauze.</string>
+    <string name="step_bleeding_2">Do not remove soaked bandages; add more on top.</string>
+    <string name="step_bleeding_3">If bleeding is from a limb and severe, use a tourniquet.</string>
+
+    <!-- Burns -->
+    <string name="title_burns">Burns</string>
+    <string name="desc_burns">Treating heat or chemical burns.</string>
+    <string name="step_burns_1">Stop the burning by removing the heat source.</string>
+    <string name="step_burns_2">Cool the burn with cool running water (not ice).</string>
+    <string name="step_burns_3">Cover loosely with a sterile, non-stick dressing.</string>
+</resources>
