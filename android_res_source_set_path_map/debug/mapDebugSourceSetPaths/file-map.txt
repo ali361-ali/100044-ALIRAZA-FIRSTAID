@@ -1,0 +1,39 @@
+com.a.firstaid.app-tracing-1.2.0-0 C:\Users\ALI RAZA\.gradle\caches\9.2.1\transforms\0d9e0d64e4583b5d1d1abf7b3eb3cfa1\workspace\transformed\tracing-1.2.0\res
+com.a.firstaid.app-activity-1.12.4-1 C:\Users\ALI RAZA\.gradle\caches\9.2.1\transforms\112cad44ed6a37d18f23635cdd7a20c9\workspace\transformed\activity-1.12.4\res
+com.a.firstaid.app-annotation-experimental-1.4.1-2 C:\Users\ALI RAZA\.gradle\caches\9.2.1\transforms\255f5663d3f6d5d28844af80f258784d\workspace\transformed\annotation-experimental-1.4.1\res
+com.a.firstaid.app-profileinstaller-1.4.0-3 C:\Users\ALI RAZA\.gradle\caches\9.2.1\transforms\29df1c7b179715e2d841caa2e4b174ab\workspace\transformed\profileinstaller-1.4.0\res
+com.a.firstaid.app-startup-runtime-1.1.1-4 C:\Users\ALI RAZA\.gradle\caches\9.2.1\transforms\2e2a5655fdbdd8928da5be58544cb266\workspace\transformed\startup-runtime-1.1.1\res
+com.a.firstaid.app-cardview-1.0.0-5 C:\Users\ALI RAZA\.gradle\caches\9.2.1\transforms\2ea673e9497f745adda10264ea652115\workspace\transformed\cardview-1.0.0\res
+com.a.firstaid.app-lifecycle-livedata-core-2.6.2-6 C:\Users\ALI RAZA\.gradle\caches\9.2.1\transforms\34b132a43b4beb72ee93e05f5ed3bf26\workspace\transformed\lifecycle-livedata-core-2.6.2\res
+com.a.firstaid.app-lifecycle-livedata-2.6.2-7 C:\Users\ALI RAZA\.gradle\caches\9.2.1\transforms\459edc20f48b29f6bd316f3ae110ec08\workspace\transformed\lifecycle-livedata-2.6.2\res
+com.a.firstaid.app-appcompat-resources-1.7.1-8 C:\Users\ALI RAZA\.gradle\caches\9.2.1\transforms\481491b381ead34f6d43b22b4edc06eb\workspace\transformed\appcompat-resources-1.7.1\res
+com.a.firstaid.app-lifecycle-process-2.6.2-9 C:\Users\ALI RAZA\.gradle\caches\9.2.1\transforms\4ff1d1de76ed380f1f41109b3d431eaf\workspace\transformed\lifecycle-process-2.6.2\res
+com.a.firstaid.app-lifecycle-viewmodel-savedstate-2.6.2-10 C:\Users\ALI RAZA\.gradle\caches\9.2.1\transforms\609b38e77a0dc93b72cc274e05b240ec\workspace\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+com.a.firstaid.app-savedstate-1.2.1-11 C:\Users\ALI RAZA\.gradle\caches\9.2.1\transforms\6b0ee750acda9119e8dd31c613d3dece\workspace\transformed\savedstate-1.2.1\res
+com.a.firstaid.app-appcompat-1.7.1-12 C:\Users\ALI RAZA\.gradle\caches\9.2.1\transforms\7174daec1a2a2233626174c2c6553eb3\workspace\transformed\appcompat-1.7.1\res
+com.a.firstaid.app-recyclerview-1.2.1-13 C:\Users\ALI RAZA\.gradle\caches\9.2.1\transforms\7439911e5946bd8bea19f4a07b0093fc\workspace\transformed\recyclerview-1.2.1\res
+com.a.firstaid.app-constraintlayout-2.2.1-14 C:\Users\ALI RAZA\.gradle\caches\9.2.1\transforms\7afb8780e13cf1445e801fcac79cfa10\workspace\transformed\constraintlayout-2.2.1\res
+com.a.firstaid.app-emoji2-views-helper-1.3.0-15 C:\Users\ALI RAZA\.gradle\caches\9.2.1\transforms\91a96005b8282e4849ed8e8151e347f1\workspace\transformed\emoji2-views-helper-1.3.0\res
+com.a.firstaid.app-emoji2-1.3.0-16 C:\Users\ALI RAZA\.gradle\caches\9.2.1\transforms\9b04b29ed1d3721ce8727b55886d1d43\workspace\transformed\emoji2-1.3.0\res
+com.a.firstaid.app-navigationevent-17 C:\Users\ALI RAZA\.gradle\caches\9.2.1\transforms\9f5bb78c4af0e24e492fa30be9d082b0\workspace\transformed\navigationevent\res
+com.a.firstaid.app-core-runtime-2.2.0-18 C:\Users\ALI RAZA\.gradle\caches\9.2.1\transforms\aed02a6df73fcb506bd9f87dee85f832\workspace\transformed\core-runtime-2.2.0\res
+com.a.firstaid.app-viewpager2-1.0.0-19 C:\Users\ALI RAZA\.gradle\caches\9.2.1\transforms\b2fd1df20dde03a270d7d4dc58c0f44f\workspace\transformed\viewpager2-1.0.0\res
+com.a.firstaid.app-material-1.13.0-20 C:\Users\ALI RAZA\.gradle\caches\9.2.1\transforms\b832b9a535f49aefd621c708560eda94\workspace\transformed\material-1.13.0\res
+com.a.firstaid.app-drawerlayout-1.1.1-21 C:\Users\ALI RAZA\.gradle\caches\9.2.1\transforms\ba94bbd1379491631f37084d69296845\workspace\transformed\drawerlayout-1.1.1\res
+com.a.firstaid.app-core-ktx-1.17.0-22 C:\Users\ALI RAZA\.gradle\caches\9.2.1\transforms\bb3b4162ea1dea993d1c7ab9b8c66c07\workspace\transformed\core-ktx-1.17.0\res
+com.a.firstaid.app-lifecycle-runtime-2.6.2-23 C:\Users\ALI RAZA\.gradle\caches\9.2.1\transforms\bf8e7e39f8792ad898b343f5cdaa68a6\workspace\transformed\lifecycle-runtime-2.6.2\res
+com.a.firstaid.app-transition-1.5.0-24 C:\Users\ALI RAZA\.gradle\caches\9.2.1\transforms\d40b5faa4f6f5630ce1dfc66e5781f6c\workspace\transformed\transition-1.5.0\res
+com.a.firstaid.app-graphics-shapes-release-25 C:\Users\ALI RAZA\.gradle\caches\9.2.1\transforms\d61acb48796c02f0967050a8eee581c4\workspace\transformed\graphics-shapes-release\res
+com.a.firstaid.app-core-1.17.0-26 C:\Users\ALI RAZA\.gradle\caches\9.2.1\transforms\ddf159587069eac9b4bd435b9de6deb6\workspace\transformed\core-1.17.0\res
+com.a.firstaid.app-core-viewtree-1.0.0-27 C:\Users\ALI RAZA\.gradle\caches\9.2.1\transforms\e2184f32ccf73327b13a167f0abc4f87\workspace\transformed\core-viewtree-1.0.0\res
+com.a.firstaid.app-fragment-1.5.4-28 C:\Users\ALI RAZA\.gradle\caches\9.2.1\transforms\ecbe763be9bcb8406f44e10011d34ce8\workspace\transformed\fragment-1.5.4\res
+com.a.firstaid.app-coordinatorlayout-1.1.0-29 C:\Users\ALI RAZA\.gradle\caches\9.2.1\transforms\f0e5df5c3fd29b0312f3536809bcb7d5\workspace\transformed\coordinatorlayout-1.1.0\res
+com.a.firstaid.app-dynamicanimation-1.1.0-30 C:\Users\ALI RAZA\.gradle\caches\9.2.1\transforms\f31e3747d8e7a2960490cfb83d894048\workspace\transformed\dynamicanimation-1.1.0\res
+com.a.firstaid.app-lifecycle-viewmodel-2.6.2-31 C:\Users\ALI RAZA\.gradle\caches\9.2.1\transforms\fd99f50667804c6458e1229b89f7302f\workspace\transformed\lifecycle-viewmodel-2.6.2\res
+com.a.firstaid.app-pngs-32 E:\FirstAid4\app\build\generated\res\pngs\debug
+com.a.firstaid.app-updated_navigation_xml-33 E:\FirstAid4\app\build\generated\updated_navigation_xml\debug
+com.a.firstaid.app-packageDebugResources-34 E:\FirstAid4\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.a.firstaid.app-packageDebugResources-35 E:\FirstAid4\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.a.firstaid.app-debug-36 E:\FirstAid4\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.a.firstaid.app-debug-37 E:\FirstAid4\app\src\debug\res
+com.a.firstaid.app-main-38 E:\FirstAid4\app\src\main\res

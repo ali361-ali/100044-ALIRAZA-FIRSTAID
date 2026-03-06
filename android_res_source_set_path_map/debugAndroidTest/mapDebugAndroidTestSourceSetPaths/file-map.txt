@@ -1,0 +1,6 @@
+com.a.firstaid.test.app-tracing-1.2.0-0 C:\Users\ALI RAZA\.gradle\caches\9.2.1\transforms\0d9e0d64e4583b5d1d1abf7b3eb3cfa1\workspace\transformed\tracing-1.2.0\res
+com.a.firstaid.test.app-core-1.7.0-1 C:\Users\ALI RAZA\.gradle\caches\9.2.1\transforms\a94fb245b9e9378e98b8ab5d0d9d8877\workspace\transformed\core-1.7.0\res
+com.a.firstaid.test.app-updated_navigation_xml-2 E:\FirstAid4\app\build\generated\updated_navigation_xml\debugAndroidTest
+com.a.firstaid.test.app-packageDebugAndroidTestResources-3 E:\FirstAid4\app\build\intermediates\incremental\debugAndroidTest\packageDebugAndroidTestResources\merged.dir
+com.a.firstaid.test.app-packageDebugAndroidTestResources-4 E:\FirstAid4\app\build\intermediates\incremental\debugAndroidTest\packageDebugAndroidTestResources\stripped.dir
+com.a.firstaid.test.app-debugAndroidTest-5 E:\FirstAid4\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
